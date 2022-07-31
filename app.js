@@ -117,6 +117,7 @@ class SinglyLinkedList {
     }
 }
 
+//* Add test
 let list = new SinglyLinkedList();
 list.push('hi');
 list.push('I');
